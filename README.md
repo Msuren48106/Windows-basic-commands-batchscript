@@ -1,4 +1,4 @@
-# Windows-basic-commands-batchscript
+![328574602-1e8bd16c-f8d8-460c-8330-25beff843206](https://github.com/user-attachments/assets/b5d593d2-f6aa-4043-b112-baa006330bb9)# Windows-basic-commands-batchscript
 Ex08-Windows-basic-commands-batchscript
 
 # AIM:
@@ -47,19 +47,26 @@ Copy "MyFile.txt" to a new folder named "Backup" on the desktop.
 Move the "MyLab" directory to the "Documents" folder.
 
 
+
+
+
+
 ## COMMAND AND OUTPUT
+mv Myfile.txt %userprofile%\Documents
+
+
+![Screenshot (305)](https://github.com/user-attachments/assets/20589a47-1bb9-444e-b49e-fc04c3c16d1e)
 
 
 ## Exercise 2: Advanced Batch Scripting
 Create a batch script named "BackupScript.bat" that creates a backup of files with the ".docx" extension from the "Documents" folder to a new folder named "DocBackup" on the desktop.
 
 
-
-
-
-
-
 ## OUTPUT
+
+
+![328574602-1e8bd16c-f8d8-460c-8330-25beff843206](https://github.com/user-attachments/assets/6b4832bc-88fd-4865-9020-58b266eb8fc4)
+
 
 
 
