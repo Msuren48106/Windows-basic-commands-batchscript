@@ -1,5 +1,6 @@
-![328574602-1e8bd16c-f8d8-460c-8330-25beff843206](https://github.com/user-attachments/assets/b5d593d2-f6aa-4043-b112-baa006330bb9)# Windows-basic-commands-batchscript
-/### Ex08-Windows-basic-commands-batchscript
+![328574602-1e8bd16c-f8d8-460c-8330-25beff843206](https://github.com/user-attachments/assets/b5d593d2-f6aa-4043-b112-baa006330bb9)
+### Windows-basic-commands-batchscript
+### Ex08-Windows-basic-commands-batchscript
 
 # AIM:
 To execute Windows basic commands and batch scripting
